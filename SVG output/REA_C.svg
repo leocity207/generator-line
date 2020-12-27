@@ -1,0 +1,1010 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="REA_C.svg"
+   id="svg258"
+   width="100%"
+   version="1.1"
+   height="100%">
+  <metadata
+     id="metadata262">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="svg258"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-6"
+     inkscape:window-x="-6"
+     inkscape:cy="158.50767"
+     inkscape:cx="511.12141"
+     inkscape:zoom="0.69591092"
+     showgrid="false"
+     id="namedview260"
+     inkscape:window-height="850"
+     inkscape:window-width="1368"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs2" />
+  <text
+     id="text4"
+     y="-13.0"
+     x="0"
+     transform="rotate(-45 0 -13.0)"
+     font-size="20"
+     font-family="Alata">René Caccini (Ambérieu-En-Bugey) </text>
+  <circle
+     id="circle6"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="0"
+     cx="0" />
+  <text
+     id="text8"
+     y="-13.0"
+     x="38.0"
+     transform="rotate(-45 38.0 -13.0)"
+     font-size="20"
+     font-family="Alata">Ambérieu-En-Bugey</text>
+  <circle
+     id="circle10"
+     stroke-width="1"
+     stroke="rgb(0,0,0)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="0"
+     cx="38.0" />
+  <text
+     id="text12"
+     y="-13.0"
+     x="76.0"
+     transform="rotate(-45 76.0 -13.0)"
+     font-size="20"
+     font-family="Alata">Meximieux-Pérouges</text>
+  <circle
+     id="circle14"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="0"
+     cx="76.0" />
+  <text
+     id="text16"
+     y="-13.0"
+     x="114.0"
+     transform="rotate(-45 114.0 -13.0)"
+     font-size="20"
+     font-family="Alata">Montluel</text>
+  <circle
+     id="circle18"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="0"
+     cx="114.0" />
+  <text
+     id="text20"
+     y="-13.0"
+     x="152.0"
+     transform="rotate(-45 152.0 -13.0)"
+     font-size="20"
+     font-family="Alata">Beynost</text>
+  <circle
+     id="circle22"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="0"
+     cx="152.0" />
+  <text
+     id="text24"
+     y="-13.0"
+     x="190.0"
+     transform="rotate(-45 190.0 -13.0)"
+     font-size="20"
+     font-family="Alata">Saint-Maurice-de-Baynost</text>
+  <circle
+     id="circle26"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="0"
+     cx="190.0" />
+  <text
+     id="text28"
+     y="-13.0"
+     x="228.0"
+     transform="rotate(-45 228.0 -13.0)"
+     font-size="20"
+     font-family="Alata">Miribel</text>
+  <circle
+     id="circle30"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="0"
+     cx="228.0" />
+  <text
+     id="text32"
+     y="-13.0"
+     x="266.0"
+     transform="rotate(-45 266.0 -13.0)"
+     font-size="20"
+     font-family="Alata">Crépieux La Pape</text>
+  <circle
+     id="circle34"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="0"
+     cx="266.0" />
+  <text
+     id="text36"
+     y="-13.0"
+     x="304.0"
+     transform="rotate(-45 304.0 -13.0)"
+     font-size="20"
+     font-family="Alata">Poumeyrol</text>
+  <circle
+     id="circle38"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="0"
+     cx="304.0" />
+  <text
+     id="text40"
+     y="-13.0"
+     x="342.0"
+     transform="rotate(-45 342.0 -13.0)"
+     font-size="20"
+     font-family="Alata">La tête D'or</text>
+  <circle
+     id="circle42"
+     stroke-width="1"
+     stroke="rgb(0,0,0)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="0"
+     cx="342.0" />
+  <text
+     id="text44"
+     y="-13.0"
+     x="380.0"
+     transform="rotate(-45 380.0 -13.0)"
+     font-size="20"
+     font-family="Alata">Lyon-Part-Dieux</text>
+  <circle
+     id="circle46"
+     stroke-width="1"
+     stroke="rgb(0,0,0)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="0"
+     cx="380.0" />
+  <text
+     id="text48"
+     y="-13.0"
+     x="418.0"
+     transform="rotate(-45 418.0 -13.0)"
+     font-size="20"
+     font-family="Alata">Jean-macé</text>
+  <circle
+     id="circle50"
+     stroke-width="1"
+     stroke="rgb(0,0,0)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="0"
+     cx="418.0" />
+  <text
+     id="text52"
+     y="77.0"
+     x="572.0"
+     transform="rotate(-45 572.0 77.0)"
+     font-size="20"
+     font-family="Alata">Gorge-de-Loup </text>
+  <circle
+     id="circle54"
+     stroke-width="1"
+     stroke="rgb(0,0,0)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="90"
+     cx="572.0" />
+  <text
+     id="text56"
+     y="77.0"
+     x="610.0"
+     transform="rotate(-45 610.0 77.0)"
+     font-size="20"
+     font-family="Alata">Ecully-La-Demi-lune</text>
+  <circle
+     id="circle58"
+     stroke-width="1"
+     stroke="rgb(0,0,0)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="90"
+     cx="610.0" />
+  <text
+     id="text60"
+     y="77.0"
+     x="648.0"
+     transform="rotate(-45 648.0 77.0)"
+     font-size="20"
+     font-family="Alata">Francheville</text>
+  <circle
+     id="circle62"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="90"
+     cx="648.0" />
+  <text
+     id="text64"
+     y="77.0"
+     x="686.0"
+     transform="rotate(-45 686.0 77.0)"
+     font-size="20"
+     font-family="Alata">Chaponost</text>
+  <circle
+     id="circle66"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="90"
+     cx="686.0" />
+  <text
+     id="text68"
+     y="77.0"
+     x="724.0"
+     transform="rotate(-45 724.0 77.0)"
+     font-size="20"
+     font-family="Alata">Brignais</text>
+  <circle
+     id="circle70"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="90"
+     cx="724.0" />
+  <text
+     id="text72"
+     y="77.0"
+     x="762.0"
+     transform="rotate(-45 762.0 77.0)"
+     font-size="20"
+     font-family="Alata">Vourles</text>
+  <circle
+     id="circle74"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="90"
+     cx="762.0" />
+  <text
+     id="text76"
+     y="77.0"
+     x="800.0"
+     transform="rotate(-45 800.0 77.0)"
+     font-size="20"
+     font-family="Alata">Motagny-le-bas</text>
+  <circle
+     id="circle78"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="90"
+     cx="800.0" />
+  <text
+     id="text80"
+     y="77.0"
+     x="838.0"
+     transform="rotate(-45 838.0 77.0)"
+     font-size="20"
+     font-family="Alata">Givors-Canal </text>
+  <circle
+     id="circle82"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="90"
+     cx="838.0" />
+  <text
+     id="text84"
+     y="77.0"
+     x="876.0"
+     transform="rotate(-45 876.0 77.0)"
+     font-size="20"
+     font-family="Alata">Chasse-sur-Rhônes</text>
+  <circle
+     id="circle86"
+     stroke-width="1"
+     stroke="rgb(0,0,0)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="90"
+     cx="876.0" />
+  <text
+     id="text88"
+     y="77.0"
+     x="914.0"
+     transform="rotate(-45 914.0 77.0)"
+     font-size="20"
+     font-family="Alata">Loire-sur-Rhônes</text>
+  <circle
+     id="circle90"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="90"
+     cx="914.0" />
+  <text
+     id="text92"
+     y="77.0"
+     x="952.0"
+     transform="rotate(-45 952.0 77.0)"
+     font-size="20"
+     font-family="Alata">Le Buisset</text>
+  <circle
+     id="circle94"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="90"
+     cx="952.0" />
+  <text
+     id="text96"
+     y="77.0"
+     x="990.0"
+     transform="rotate(-45 990.0 77.0)"
+     font-size="20"
+     font-family="Alata">Vienne</text>
+  <circle
+     id="circle98"
+     stroke-width="1"
+     stroke="rgb(0,0,0)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="90"
+     cx="990.0" />
+  <text
+     id="text100"
+     y="-103.0"
+     x="572.0"
+     transform="rotate(-45 572.0 -103.0)"
+     font-size="20"
+     font-family="Alata">Mulat</text>
+  <circle
+     id="circle102"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="-90"
+     cx="572.0" />
+  <text
+     id="text104"
+     y="-103.0"
+     x="610.0"
+     transform="rotate(-45 610.0 -103.0)"
+     font-size="20"
+     font-family="Alata">Oullins</text>
+  <circle
+     id="circle106"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="-90"
+     cx="610.0" />
+  <text
+     id="text108"
+     y="-103.0"
+     x="648.0"
+     transform="rotate(-45 648.0 -103.0)"
+     font-size="20"
+     font-family="Alata">Pierre-Bénite</text>
+  <circle
+     id="circle110"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="-90"
+     cx="648.0" />
+  <text
+     id="text112"
+     y="-103.0"
+     x="686.0"
+     transform="rotate(-45 686.0 -103.0)"
+     font-size="20"
+     font-family="Alata">Itigny-Yvours</text>
+  <circle
+     id="circle114"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="-90"
+     cx="686.0" />
+  <text
+     id="text116"
+     y="-103.0"
+     x="724.0"
+     transform="rotate(-45 724.0 -103.0)"
+     font-size="20"
+     font-family="Alata">Vernaison</text>
+  <circle
+     id="circle118"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="-90"
+     cx="724.0" />
+  <text
+     id="text120"
+     y="-103.0"
+     x="762.0"
+     transform="rotate(-45 762.0 -103.0)"
+     font-size="20"
+     font-family="Alata">Grigny</text>
+  <circle
+     id="circle122"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="-90"
+     cx="762.0" />
+  <circle
+     id="circle126"
+     stroke-width="1"
+     stroke="rgb(0,0,0)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="-90"
+     cx="800.0" />
+  <path
+     style="stroke-linejoin:round"
+     sodipodi:nodetypes="ccccccc"
+     id="path128"
+     stroke-width="14"
+     stroke="#ff8e11"
+     fill="none"
+     d="m 0,0 h 462.5 l 103,90 H 990 M 462.5,0 l 103,-90 h 276.172" />
+  <text
+     id="text130"
+     y="-13.0"
+     x="0"
+     transform="rotate(-45 0 -13.0)"
+     font-size="20"
+     font-family="Alata">René Caccini (Ambérieu-En-Bugey) </text>
+  <circle
+     id="circle132"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="0"
+     cx="0" />
+  <text
+     id="text134"
+     y="-13.0"
+     x="38.0"
+     transform="rotate(-45 38.0 -13.0)"
+     font-size="20"
+     font-family="Alata">Ambérieu-En-Bugey</text>
+  <circle
+     id="circle136"
+     stroke-width="1"
+     stroke="rgb(0,0,0)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="0"
+     cx="38.0" />
+  <text
+     id="text138"
+     y="-13.0"
+     x="76.0"
+     transform="rotate(-45 76.0 -13.0)"
+     font-size="20"
+     font-family="Alata">Meximieux-Pérouges</text>
+  <circle
+     id="circle140"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="0"
+     cx="76.0" />
+  <text
+     id="text142"
+     y="-13.0"
+     x="114.0"
+     transform="rotate(-45 114.0 -13.0)"
+     font-size="20"
+     font-family="Alata">Montluel</text>
+  <circle
+     id="circle144"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="0"
+     cx="114.0" />
+  <text
+     id="text146"
+     y="-13.0"
+     x="152.0"
+     transform="rotate(-45 152.0 -13.0)"
+     font-size="20"
+     font-family="Alata">Beynost</text>
+  <circle
+     id="circle148"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="0"
+     cx="152.0" />
+  <text
+     id="text150"
+     y="-13.0"
+     x="190.0"
+     transform="rotate(-45 190.0 -13.0)"
+     font-size="20"
+     font-family="Alata">Saint-Maurice-de-Baynost</text>
+  <circle
+     id="circle152"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="0"
+     cx="190.0" />
+  <text
+     id="text154"
+     y="-13.0"
+     x="228.0"
+     transform="rotate(-45 228.0 -13.0)"
+     font-size="20"
+     font-family="Alata">Miribel</text>
+  <circle
+     id="circle156"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="0"
+     cx="228.0" />
+  <text
+     id="text158"
+     y="-13.0"
+     x="266.0"
+     transform="rotate(-45 266.0 -13.0)"
+     font-size="20"
+     font-family="Alata">Crépieux La Pape</text>
+  <circle
+     id="circle160"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="0"
+     cx="266.0" />
+  <text
+     id="text162"
+     y="-13.0"
+     x="304.0"
+     transform="rotate(-45 304.0 -13.0)"
+     font-size="20"
+     font-family="Alata">Poumeyrol</text>
+  <circle
+     id="circle164"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="0"
+     cx="304.0" />
+  <text
+     id="text166"
+     y="-13.0"
+     x="342.0"
+     transform="rotate(-45 342.0 -13.0)"
+     font-size="20"
+     font-family="Alata">La tête D'or</text>
+  <circle
+     id="circle168"
+     stroke-width="1"
+     stroke="rgb(0,0,0)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="0"
+     cx="342.0" />
+  <text
+     id="text170"
+     y="-13.0"
+     x="380.0"
+     transform="rotate(-45 380.0 -13.0)"
+     font-size="20"
+     font-family="Alata">Lyon-Part-Dieux</text>
+  <circle
+     id="circle172"
+     stroke-width="1"
+     stroke="rgb(0,0,0)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="0"
+     cx="380.0" />
+  <text
+     id="text174"
+     y="-13.0"
+     x="418.0"
+     transform="rotate(-45 418.0 -13.0)"
+     font-size="20"
+     font-family="Alata">Jean-macé</text>
+  <circle
+     id="circle176"
+     stroke-width="1"
+     stroke="rgb(0,0,0)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="0"
+     cx="418.0" />
+  <text
+     id="text178"
+     y="-13.0"
+     x="456.0"
+     transform="rotate(-45 456.0 -13.0)"
+     font-size="20"
+     font-family="Alata">Lyon-Perrache</text>
+  <circle
+     id="circle180"
+     stroke-width="1"
+     stroke="rgb(0,0,0)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="0"
+     cx="456.0" />
+  <text
+     id="text182"
+     y="77.0"
+     x="572.0"
+     transform="rotate(-45 572.0 77.0)"
+     font-size="20"
+     font-family="Alata">Gorge-de-Loup </text>
+  <circle
+     id="circle184"
+     stroke-width="1"
+     stroke="rgb(0,0,0)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="90"
+     cx="572.0" />
+  <text
+     id="text186"
+     y="77.0"
+     x="610.0"
+     transform="rotate(-45 610.0 77.0)"
+     font-size="20"
+     font-family="Alata">Ecully-La-Demi-lune</text>
+  <circle
+     id="circle188"
+     stroke-width="1"
+     stroke="rgb(0,0,0)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="90"
+     cx="610.0" />
+  <text
+     id="text190"
+     y="77.0"
+     x="648.0"
+     transform="rotate(-45 648.0 77.0)"
+     font-size="20"
+     font-family="Alata">Francheville</text>
+  <circle
+     id="circle192"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="90"
+     cx="648.0" />
+  <text
+     id="text194"
+     y="77.0"
+     x="686.0"
+     transform="rotate(-45 686.0 77.0)"
+     font-size="20"
+     font-family="Alata">Chaponost</text>
+  <circle
+     id="circle196"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="90"
+     cx="686.0" />
+  <text
+     id="text198"
+     y="77.0"
+     x="724.0"
+     transform="rotate(-45 724.0 77.0)"
+     font-size="20"
+     font-family="Alata">Brignais</text>
+  <circle
+     id="circle200"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="90"
+     cx="724.0" />
+  <text
+     id="text202"
+     y="77.0"
+     x="762.0"
+     transform="rotate(-45 762.0 77.0)"
+     font-size="20"
+     font-family="Alata">Vourles</text>
+  <circle
+     id="circle204"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="90"
+     cx="762.0" />
+  <text
+     id="text206"
+     y="77.0"
+     x="800.0"
+     transform="rotate(-45 800.0 77.0)"
+     font-size="20"
+     font-family="Alata">Motagny-le-bas</text>
+  <circle
+     id="circle208"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="90"
+     cx="800.0" />
+  <text
+     id="text210"
+     y="77.0"
+     x="838.0"
+     transform="rotate(-45 838.0 77.0)"
+     font-size="20"
+     font-family="Alata">Givors-Canal </text>
+  <circle
+     id="circle212"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="90"
+     cx="838.0" />
+  <text
+     id="text214"
+     y="77.0"
+     x="876.0"
+     transform="rotate(-45 876.0 77.0)"
+     font-size="20"
+     font-family="Alata">Chasse-sur-Rhônes</text>
+  <circle
+     id="circle216"
+     stroke-width="1"
+     stroke="rgb(0,0,0)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="90"
+     cx="876.0" />
+  <text
+     id="text218"
+     y="77.0"
+     x="914.0"
+     transform="rotate(-45 914.0 77.0)"
+     font-size="20"
+     font-family="Alata">Loire-sur-Rhônes</text>
+  <circle
+     id="circle220"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="90"
+     cx="914.0" />
+  <text
+     id="text222"
+     y="77.0"
+     x="952.0"
+     transform="rotate(-45 952.0 77.0)"
+     font-size="20"
+     font-family="Alata">Le Buisset</text>
+  <circle
+     id="circle224"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="90"
+     cx="952.0" />
+  <text
+     id="text226"
+     y="77.0"
+     x="990.0"
+     transform="rotate(-45 990.0 77.0)"
+     font-size="20"
+     font-family="Alata">Vienne</text>
+  <circle
+     id="circle228"
+     stroke-width="1"
+     stroke="rgb(0,0,0)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="90"
+     cx="990.0" />
+  <text
+     id="text230"
+     y="-103.0"
+     x="572.0"
+     transform="rotate(-45 572.0 -103.0)"
+     font-size="20"
+     font-family="Alata">Mulat</text>
+  <circle
+     id="circle232"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="-90"
+     cx="572.0" />
+  <text
+     id="text234"
+     y="-103.0"
+     x="610.0"
+     transform="rotate(-45 610.0 -103.0)"
+     font-size="20"
+     font-family="Alata">Oullins</text>
+  <circle
+     id="circle236"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="-90"
+     cx="610.0" />
+  <text
+     id="text238"
+     y="-103.0"
+     x="648.0"
+     transform="rotate(-45 648.0 -103.0)"
+     font-size="20"
+     font-family="Alata">Pierre-Bénite</text>
+  <circle
+     id="circle240"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="-90"
+     cx="648.0" />
+  <text
+     id="text242"
+     y="-103.0"
+     x="686.0"
+     transform="rotate(-45 686.0 -103.0)"
+     font-size="20"
+     font-family="Alata">Itigny-Yvours</text>
+  <circle
+     id="circle244"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="-90"
+     cx="686.0" />
+  <text
+     id="text246"
+     y="-103.0"
+     x="724.0"
+     transform="rotate(-45 724.0 -103.0)"
+     font-size="20"
+     font-family="Alata">Vernaison</text>
+  <circle
+     id="circle248"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="-90"
+     cx="724.0" />
+  <text
+     id="text250"
+     y="-103.0"
+     x="762.0"
+     transform="rotate(-45 762.0 -103.0)"
+     font-size="20"
+     font-family="Alata">Grigny</text>
+  <circle
+     id="circle252"
+     stroke-width="1"
+     stroke="rgb(255,142,17)"
+     r="6.5"
+     fill="rgb(255,255,255)"
+     cy="-90"
+     cx="762.0" />
+  <text
+     id="text254"
+     y="522.828"
+     x="668.492"
+     transform="rotate(-45)"
+     font-size="20px"
+     font-family="Alata">Givors-ville</text>
+  <circle
+     id="circle256"
+     stroke-width="1"
+     stroke="#000000"
+     r="6.5"
+     fill="#ffffff"
+     cy="-90"
+     cx="842.3905" />
+  <text
+     font-family="Alata"
+     font-size="20px"
+     transform="rotate(-45)"
+     x="636.50806"
+     y="495.46179"
+     id="text210-8">Givors-Canal</text>
+  <circle
+     cx="801.86053"
+     cy="-90.327133"
+     fill="#ffffff"
+     r="6.5"
+     stroke="#ff8e11"
+     stroke-width="1"
+     id="circle212-4" />
+</svg>

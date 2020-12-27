@@ -1,0 +1,184 @@
+    if (tool.csv_file[index][0] in tool.already_drawn_station):
+        return
+    #check the type if this station has possible transfert
+    #we retrieve the list of connection
+    connection=tool.csv_file[index][2]
+    connection_type=Get_connection_type(connection)
+    #-----------------------------------
+    #find how to place the next station
+    #-----------------------------------
+    if (connection_type==1):##### end of line
+        if not tool.csv_file[index] in tool.already_drawn_station:  ########### begining
+            if side=='right':
+                new_cx=cx+tool.standard_station_space+2*tool.standard_station_radius
+            if side=='left':
+                new_cx=cx-tool.standard_station_space+2*tool.standard_station_radius
+            new_cy=cy
+            new_index=Get_next_line(tool,index)
+
+            Draw_circle(tool,cx,cy,index)
+            Add_circle_svg_station(tool,new_cx,new_cy,new_index,side)
+        else:
+            return   ############## ending
+    elif (connection_type==2):#### normal straight line
+        if (not connection[0][0] in tool.already_drawn_station) and (not connection[0][1] in tool.already_drawn_station): ####### Begining
+            #---------------------------------------
+            # if this station is the begining
+            # the left one in the databasse will be choosen as going left while the one on the right will be choosen to go right
+            #---------------------------------------
+            new_cx=cx+tool.standard_station_space+2*tool.standard_station_radius
+            new_cy=cy
+            new_index=Get_next_line(tool,index)
+            Add_circle_svg_station(tool,new_cx,new_cy,new_index,'left')
+
+            new_cx=cx-tool.standard_station_space+2*tool.standard_station_radius
+            new_cy=cy
+            new_index=Get_next_line(tool,index)
+            Add_circle_svg_station(tool,new_cx,new_cy,new_index,'right')
+        elif not connection[0][0] in tool.already_drawn_station: ####### Left side is already draw so we draw right
+            #---------------------------------------
+            # normal connection right
+            #---------------------------------------
+            if side=='right':
+                new_cx=cx+tool.standard_station_space+2*tool.standard_station_radius
+            if side=='left':
+                new_cx=cx-tool.standard_station_space+2*tool.standard_station_radius
+            new_cy=cy
+            new_index=Get_next_line(tool,index)
+
+            Draw_circle(tool,cx,cy,index)
+            Add_circle_svg_station(tool,new_cx,new_cy,new_index,side)
+        elif not connection[0][1] in tool.already_drawn_station: ####### right side is already drawn so we draw left
+            #---------------------------------------
+            # normal connection left
+            #---------------------------------------
+            if side=='right':
+                new_cx=cx+tool.standard_station_space+2*tool.standard_station_radius
+            if side=='left':
+                new_cx=cx-tool.standard_station_space+2*tool.standard_station_radius
+            new_cy=cy
+            new_index=Get_next_line(tool,index)
+
+            Draw_circle(tool,cx,cy,index)
+            Add_circle_svg_station(tool,new_cx,new_cy,new_index,side)
+        else:
+            #---------------------------------------
+            # this should normaly not happend but why not
+            #---------------------------------------
+            return ####### should not append
+    elif (connection_type==3):#### bifurcation by two
+        #----------------------
+        #detect the tri point
+        #---------------------
+        if (connection[0][0]==connection[1][0] or connection[0][0]==connection[1][1]):
+            tri=connection[0][0]
+        else:
+            tri=connection[0][1]
+
+
+        if tri in tool.already_drawn_station:
+            Draw_circle(tool,cx,cy,index)
+            if side=='right':
+                new_cx=cx+tool.standard_bifurcation_space+4*tool.standard_station_radius
+                new_cy=cy+tool.standard_bifurcation_space
+                new_index=Get_next_line(tool,index)
+
+
+                Add_circle_svg_station(tool,new_cx,new_cy,new_index)
+
+                new_cx=cx+tool.standard_bifurcation_space+4*tool.standard_station_radius
+                new_cy=cy-tool.standard_bifurcation_space
+                new_index=Get_next_line(tool,index)
+
+                Add_circle_svg_station(tool,new_cx,new_cy,new_index)
+            else: # side='left':
+                new_cx=cx-tool.standard_bifurcation_space+4*tool.standard_station_radius
+                new_cy=cy+tool.standard_bifurcation_space
+                new_index=Get_next_line(tool,index)
+
+                Add_circle_svg_station(tool,new_cx,new_cy,new_index)
+
+                new_cx=cx-tool.standard_bifurcation_space+4*tool.standard_station_radius
+                new_cy=cy-tool.standard_bifurcation_space
+                new_index=Get_next_line(tool,index)
+
+                Add_circle_svg_station(tool,new_cx,new_cy,new_index) ##### if the tripoint is the reference point
+        elif connection[0][0] in tool.already_drawn_station or connection[0][1] in tool.already_drawn_station: #### we arrive from the bottom point
+            if side=='right':
+                cx-=2*tool.standard_station_radius
+                Draw_circle(tool,cx+tool.standard_bifurcation_space+4*tool.standard_station_radiuse,cy+tool.standard_bifurcation_space,index)
+
+                new_cx=cx+tool.standard_bifurcation_space+4*tool.standard_station_radius+tool.standard_station_space+2*tool.standard_station_radius
+                new_cy=cy+tool.standard_bifurcation_space
+                new_index=Get_next_line(tool,index)
+
+
+                Add_circle_svg_station(tool,new_cx,new_cy,new_index)
+
+                new_cx=cx
+                new_cy=cy+2*tool.standard_bifurcation_space
+                new_index=Get_next_lin(tool,index)
+
+                Add_circle_svg_station(tool,new_cx,new_cy,new_index)
+            else: #ide='left':
+                cx+=2*tool.standard_station_radius
+                Draw_circle(tool,cx-tool.standard_bifurcation_space-4*tool.standard_station_radius,cy+tool.standard_bifurcation_space,index)
+
+                new_cx=cx-tool.standard_bifurcation_space-4*tool.standard_station_radius-(tool.standard_station_space+2*tool.standard_station_radius)
+                new_cy=cy+tool.standard_bifurcation_space
+                new_index=Get_next_line(tool,index)
+
+                Add_circle_svg_station(tool,new_cx,new_cy,new_index)
+
+                new_cx=cx
+                new_cy=cy+2*tool.standard_bifurcation_space
+                new_index=Get_next_line(tool,index)
+
+                Add_circle_svg_station(tool,new_cx,new_cy,new_index) ##### if the tripoint is the reference point
+        elif connection[1][0] in tool.already_drawn_station or connection[1][1] in tool.already_drawn_station: #### we arrive from the top point
+            if side=='right':
+                cx-=2*tool.standard_station_radius
+                Draw_circle(tool,cx+tool.standard_bifurcation_space+4*tool.standard_station_radius,cy-tool.standard_bifurcation_space/2,index)
+
+                new_cx=cx+tool.standard_bifurcation_space+4*tool.standard_station_radius+tool.standard_station_space+2*tool.standard_station_radius
+                new_cy=cy-tool.standard_bifurcation_space
+                new_index=Get_next_line(tool,index)
+
+                Add_circle_svg_station(tool,new_cx,new_cy,new_index)
+
+                new_cx=cx
+                new_cy=cy-2*tool.standard_bifurcation_space
+                new_index=Get_next_line(tool,index)
+
+                Add_circle_svg_station(tool,new_cx,new_cy,new_index)
+            else: # side='left':
+                cx+=2*tool.standard_station_radius
+                Draw_circle(tool,cx-tool.standard_bifurcation_space-4*tool.standard_station_radius,cy-tool.standard_bifurcation_space/2,index)
+
+                new_cx=cx-tool.standard_bifurcation_space-4*tool.standard_station_radius-(tool.standard_station_space+2*tool.standard_station_radius)
+                new_cy=cy-tool.standard_bifurcation_space
+                new_index=Get_next_line(tool,index)
+
+                Draw_circle(tool,cx,cy,index)
+                Add_circle_svg_station(tool,new_cx,new_cy,new_index)
+
+                new_cx=cx
+                new_cy=cy-2*tool.standard_bifurcation_space
+                new_index=Get_next_line(tool,index)
+
+                Draw_circle(tool,cx,cy,index)
+                Add_circle_svg_station(tool,new_cx,new_cy,new_index) ##### if the tripoint is the reference point
+        else: #this should never happend
+            raise Exception('This bifurcation as a problem: {}'.format(connection))
+    elif (connection_type==4): #crossing parallele four
+        Draw_circle(tool,cx,cy,index)
+        if side=="right":
+            new_cx=cx+tool.standard_station_space+2*tool.standard_station_radius
+        else: #side=="left"
+            new_cx=cx-tool.standard_station_space-2*tool.standard_station_radius
+        new_cy=cy
+        index=Get_next_line(tool,index)
+        Add_circle_svg_station(tool,new_cx,new_cy,index)
+    else:
+        raise Exception('the type of connection is too big and unsuported: {}'.format(connection))
+

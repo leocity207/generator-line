@@ -1,0 +1,33 @@
+ID,station name,connection,REA,TGV,Expresse,Cabotin,local
+0,René Caccini (Ambérieu-En-Bugey) ,R=1,,,,,
+1,Ambérieu-En-Bugey,0=2,,,BOURGOIN_MACON,AMBERIEU_VOIRON MACON_NYON,
+2,Meximieux-Pérouges,1=3,,,,,
+3,Montluel,2=4,,,,,
+4,Beynost,3=5,,,,,
+5,Saint-Maurice-de-Baynost,4=6,,,,,
+6,Miribel,5=7,,,,,
+7,Crépieux La Pape,6=8,,,,,
+8,Poumeyrol,7=9,,,,,
+9,La tête D'or,8=10,REAL_A,,,,
+10,Lyon-Part-Dieux,9=11,REAL_A REAL_D,NORD_SUD,CLERMONT_LYON RHONA,,TCL_B TCL_1
+11,Jean-macé,10=12,REAL_B,,,,TCL_2
+12,Lyon-Perrache,11=13 11=25,REAL_B,,RHONE_ALPES_AUVERGNE CLERMONT_LYON,,TCL_1 TCL_2 TCL_A
+13,Gorge-de-Loup ,12=14,REAL_B REAL_D,,,,TCL_D
+14,Ecully-La-Demi-lune,13=15,REAL_D,,,,
+15,Francheville,14=16,,,,,
+16,Chaponost,15=17,,,,,
+17,Brignais,16=18,,,,,
+18,Vourles,17=19,,,,,
+19,Motagny-le-bas,18=20,,,,,
+20,Givors-Canal ,19=21 30=31,,,,,
+21,Chasse-sur-Rhônes,20=22,REAL_A,,,,
+22,Loire-sur-Rhônes,21=23,,,,,
+23,Le Buisset,22=24,,,,,
+24,Vienne,R=23,REAL_A,,,,
+25,Mulat,12=26,,,,,
+26,Oullins,25=27,,,,,
+27,Pierre-Bénite,26=28,,,,,
+28,Itigny-Yvours,27=29,,,,,
+29,Vernaison,28=30,,,,,
+30,Grigny,31=20,,,,,
+31,Givors-ville,R=20,REAL_A,,CLERMONT_LYON,,
